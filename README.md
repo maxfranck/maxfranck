@@ -1,6 +1,6 @@
 ![MasterHead](images/header.png)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/max.franck/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-franck/) [![Dio](https://img.shields.io/badge/My%20Dio%20Profile-000?style=for-the-badge)](https://docs.github.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/max.franck/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-franck/) [![Dio](https://img.shields.io/badge/My%20Dio%20Profile-000?style=for-the-badge)](https://web.dio.me/users/max_franck/)
 
 Coming soon, there will be an awesome text here about myself,
 talking about who I am, what I can do, and so on.
